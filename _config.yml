@@ -25,3 +25,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+owner: KomodoThreat
+year: 2021
